@@ -1,0 +1,7 @@
+1. Geothermal energy becomes available in a practical form when underground heat is transferred by water that is heated as it passes through a subsurface region of hot rocks (a heat reservoir) that may be hundreds or thousands of feet deep.
+随着水流流经地表下大概成百上千英尺深的热岩区，当地热被水流传递出的似乎后，地热能就变成一种确实可行的形式。
+2. Geothermal energy is in a sense not renewable, because in most cases the heat would
+be drawn out of a reservoir much more rapidly than it would be replaced by the very slow geological processes by which heat flows through solid rock into a heat reservoir.
+地热能在某种程度上将是不可更新的，因为在大多数情况下，热量从蓄水池中逸散出远比经过缓慢的热量流经岩石进入热量蓄水池的地质过程要快。
+3. Although the potential is enormous, it is likely that in the near future geothermal energy can make important local contributions only where the resource is close to the user and the economics are favorable, as they are in California, New Zealand, and Iceland.
+尽管地热能的潜能是巨大的，但是很明显只有资源临近用户而且经济喜人的地热能资源，像加利福尼亚，新西兰和冰岛，才能对当地产生重要贡献。
