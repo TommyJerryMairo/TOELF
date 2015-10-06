@@ -1,0 +1,8 @@
+1. Then exchanges with the atmosphere are calculated by finding the difference between the gains from rain, as measured (rather roughly) by rain gauges, and the losses by evaporation, measured with models that correct for the other sources of water loss.
+然后，与大气的交换被计算出来，通过寻找从被雨水度量器（相当概略地）估量的，部分蒸发的损失被同经过由其他水蒸发的数据来源矫正的其他模型一同估量的雨水中获得物的不同。
+2. Changes in lake level not explained by river flows plus exchanges with the atmosphere must be due to the net difference between what seeps into the lake from the groundwater and what leaks into the ground water.
+无法被地表径流解释的湖平面海拔的变化，外加大气的变化，归咎于地下水网络渗出与漏入之间的不同。
+3.The residence time is an average; the time spent in the lake by a given molecule (if we could follow its fate) would depend on the route it took: it might flow through as part of the fastest, most direct current, or it might circle in a backwater for an indefinitely long time.
+居住时间是个平均数；考虑到一个分子（如果我们能够跟踪它的命运）在湖中花费的时间将取决于它选取的路径：他大概会流经作为一部分最快速最直通的水流，或者大概会在不可估计的长久的时间里在逆流水中转圈。
+4. In the period 1970 to 1986, rainfall in the area decreased from 1,000 millimeters to 650 millimeters per annum, while above-average temperatures speeded up the evapotranspiration rate (the rate at which water is lost to the atmosphere through evaporation and the processes of plant life).
+在1970年到1986年间，这个地区的年降雨量从1000毫米降到650毫米，然而高于平均水平的气温加快了蒸腾蒸发作用的速率（水经由蒸发作用和植物的蒸腾作用被丢失到大气中的速率）。
